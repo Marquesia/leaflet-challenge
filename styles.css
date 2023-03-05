@@ -1,0 +1,25 @@
+#map {
+    width: 100vw;
+    height: 100vh;
+}
+
+.info.legend{
+    background-color:gray;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.info.legend div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+info.legend i{
+padding:10px;
+}
+
+.info.legend p {
+    margin-top: 0;
+}
